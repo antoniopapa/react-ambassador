@@ -1,0 +1,7 @@
+.card {
+    cursor: pointer;
+}
+
+.card.selected {
+    border: 4px solid darkcyan;
+}
